@@ -16,5 +16,8 @@ try {
 };
 getArticleId();
 
-async function articleId(){}
+async function articleId(){
+    
+}
+
 
